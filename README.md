@@ -1,4 +1,4 @@
-# Maba-Shoping
+# Fashi
 
 This project requires Node.js and MongoDB to run local:
 
@@ -20,7 +20,7 @@ To install MongoDB download it from here and follow the install instructions for
 ` $ npm start `
 
 #### Finally go to your favorite browser and visit the address:
-` http://localhost:3000 `
+` http://localhost:3000/fashi `
 
 ### Helpful things for development
 * vash syntax highlighting plugin for in Visual Studio Code
